@@ -2,8 +2,8 @@
 #
 # Description: Parses a line of ARGOS tracking data 
 #
-# Created by: John Fay (jpfay@duke.edu)
-# Created on: Oct 2012
+# Created by: Joe Fader
+# Created on: Oct 2016
 
 # Copy and paste a line of data as the startLine variable value
 lineString = "20616	29051	7/3/2003 9:13	3	66	33.898	-77.958	27.369	-46.309	6	0	-126	529	3	401 651134.7	0"
