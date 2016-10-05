@@ -6,6 +6,7 @@
 # Created on: Oct 2016
 
 # Copy and paste a line of data as the startLine variable value
+# adding some more info to track
 lineString = "20616	29051	7/3/2003 9:13	3	66	33.898	-77.958	27.369	-46.309	6	0	-126	529	3	401 651134.7	0"
 
 # Use the split command to parse the items in lineString into a list object
